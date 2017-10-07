@@ -7,6 +7,7 @@ public class TestGitFile {
 		System.out.println("时为准");
 		System.getProperties();
 		System.getProperties();
+		System.out.println(System.getProperties());
 		
 	}
 
