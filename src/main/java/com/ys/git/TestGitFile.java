@@ -6,6 +6,8 @@ public class TestGitFile {
 		// TODO Auto-generated method stub
 		System.out.println("时为准");
 		System.getProperties();
+		System.getProperties();
+		
 	}
 
 }
