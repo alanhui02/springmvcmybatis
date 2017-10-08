@@ -6,6 +6,7 @@ public class AGit {
 		// TODO Auto-generated method stub
 		System.out.println("AGit");
 		System.out.println("A  。。。   。。Git");
+		System.out.println("杨");
 	}
 
 }
