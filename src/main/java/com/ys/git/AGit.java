@@ -7,6 +7,12 @@ public class AGit {
 		System.out.println("AGit");
 		System.out.println("A  。。。   。。Git");
 		System.out.println("杨");
+		System.out.println("杨");
+		System.out.println("杨");
+		System.out.println("杨");
+		System.out.println("杨");
+		System.out.println("杨");
+		System.out.println("杨");
 	}
 
 }
