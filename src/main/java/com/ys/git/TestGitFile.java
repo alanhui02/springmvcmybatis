@@ -10,6 +10,7 @@ public class TestGitFile {
 		System.out.println(System.getProperties());
 		System.out.println(System.getProperties());
 		
+		System.getProperty("temp");
 	}
 
 }
