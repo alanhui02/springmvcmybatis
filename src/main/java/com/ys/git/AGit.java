@@ -13,6 +13,10 @@ public class AGit {
 		System.out.println("杨");
 		System.out.println("杨");
 		System.out.println("杨");
+		System.out.println("杨");
+		System.out.println("杨");
+		System.out.println("杨");
+		System.out.println("杨");
 	}
 
 }
